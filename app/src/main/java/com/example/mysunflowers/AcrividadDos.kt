@@ -13,5 +13,6 @@ class AcrividadDos : AppCompatActivity() {
 
         textView= findViewById(R.id.Mensaje)
         textView.setText(mensaje)
+        //ejemplo de cambio
     }
 }
